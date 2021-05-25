@@ -1,1 +1,1 @@
-# Sonar_file_example
+# File example for sonnar scanner
